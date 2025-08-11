@@ -45,6 +45,7 @@ local rhToys = {
 	235016, --Redeployment Module
 	236687, -- Explosive Hearthstone
 	245970, -- P.O.S.T Master's Express Hearthstone
+	246565, -- Cosmic Hearthstone
 }
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
