@@ -1,2 +1,1 @@
-Added Naaru's Enfold
--- Thanks Miamamoo
+Added combat taint fix - Thanks Pelux
